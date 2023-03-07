@@ -1,5 +1,5 @@
 #Film Database Web Application
-This is a web application developed as part of an assessment for a unit that demonstrates the ability to create and test differing formats of web services, to retrieve and parse data in a variety of formats and finally be able to consume web services in order to implement a functional web application.
+This is a web application developed that demonstrates the ability to create and test different formats of web services, to retrieve and parse data in a variety of formats and finally be able to consume web services in order to implement a functional web application.
 
 **Description**
 This project entails development of a film database web application. The web application will allow users to browse and search through the film database and perform CRUD operations. The web application you develop will exchange data in JSON and XML format through a RESTful webservice.
@@ -21,5 +21,5 @@ The web application utilize/consume the RESTful service that i have implemented 
 
 
 
-The web application was built using Java Server pages(JSP), HTML, CSS, Bootstrap, and JavaScript. 
+The web application was built using Java, HTML, CSS, Bootstrap, and JavaScript. 
 
